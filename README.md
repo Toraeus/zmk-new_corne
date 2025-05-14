@@ -1,5 +1,5 @@
-- [Chinese](README.md)
-- [English](README_EN.md)
+- [Chinese](README_CH.md)
+- [English](README.md)
 
 # 睫毛外设 (Eyelash Peripherals) Corne ZMK Repository
 
